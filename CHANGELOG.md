@@ -1,3 +1,14 @@
+## HEAD
+
+* **assets:** (breaking) Update @mozilla-protocol/assets to 3.0.0 (#479)
+  * Browser logos have new names and directories
+    * `logos/firefox/firefox.png` → `logos/firefox/browser/logo-lg.png`
+    * Logos are also slightly larger, check height & width are set when using
+  * UI icons have moved up a directory `/icons/ui/` → `/icons/`
+  * Remove `-black` from file names for black icons
+  * Focus theme has been removed
+  * Note: `mzp-t-product-*` themes will be removed in a future version
+
 ## 8.1.0
 
 * **docs:** Added component issue templates (#379)
