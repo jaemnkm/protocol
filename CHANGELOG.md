@@ -1,5 +1,6 @@
 ## HEAD
 
+* **css:** Enlarge Footer UI icons (#495)
 * **assets:** Update @mozilla-protocol/assets to 3.0.1 (#509)
 * **css:** CTA links now use text underlines instead of borders (#490)
 
